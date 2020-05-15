@@ -1,9 +1,9 @@
-echo -e "\e[4;31m SpeedX Productions !!! \e[0m"
+echo -e "\e[4;31m kishansome !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;32m TBomb \e[0m"
+echo -e "\e[1;32m TBomb.sh \e[0m"
 echo "Press Enter To Continue"
 read a1
-if [[ -s update.speedx ]];then
+if [[ -s update.kishansome ]];then
 echo "All Requirements Found...."
 else
 echo 'Installing Requirements....'
@@ -24,7 +24,7 @@ clear
 echo -e "\e[1;31m"
 figlet TBomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border SpeedX
+toilet -f mono12 -F border kishansome
 echo -e "\e[4;34m This Bomber Was Created By kishansome \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: kishan.some@gmail.com \e[0m"
@@ -105,8 +105,8 @@ echo  " "
 echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/speedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+echo -e "\e[1;32m       Whatsapp: https://bit.do/kishansome \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/kishansome \e[0m"
 echo "Press Enter To Go Home"
 read a3
 clear
@@ -115,11 +115,11 @@ clear
 echo -e "\e[1;31m"
 figlet TBomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border SpeedX
+toilet -f mono12 -F border kishansome
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/speedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+echo -e "\e[1;32m           Mail: kishan.some@gmail.com \e[0m"
+echo -e "\e[1;32m       Whatsapp: https://bit.do/kishansomegit \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/kishansome \e[0m"
 echo " "
 exit 0
 else
